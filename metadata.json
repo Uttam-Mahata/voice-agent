@@ -1,0 +1,7 @@
+{
+  "name": "Gemini RAG Voice Agent",
+  "description": "An interactive conversational voice agent powered by the Gemini Live API with Retrieval-Augmented Generation (RAG). Upload documents to provide a knowledge base for the agent to answer your questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
